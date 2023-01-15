@@ -2,7 +2,7 @@
 
 Here's **JasonL(Peiwen Lan)**, a post-OIer with 🥈 in NOI. Now I'm a freshman learning in IIIS.
 
-> You may find me with my user name *JasonLannel* somewhere.
+> You may find me with my user name *JasonLannel* somewhere, like here.
 
 #### To learn more...
 💬 [My Blog] [jasonlannel.github.io](jasonlannel.github.io) (Not ready yet)
