@@ -5,7 +5,7 @@ Here's **JasonL(Peiwen Lan)**, a post-OIer with 🥈 in NOI. Now I'm a freshman 
 > You may find me with my user name *JasonLannel* somewhere, like here.
 
 #### To learn more...
-💬 [My Blog] [jasonlannel.github.io](jasonlannel.github.io) (Not ready yet)
+💬 [My Blog] [https://jasonlannel.github.io](https://jasonlannel.github.io) 
 
 💬 [My Post Blog] [https://www.luogu.com.cn/blog/JasonL/](https://www.luogu.com.cn/blog/JasonL/)
 
