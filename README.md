@@ -11,3 +11,4 @@ Here's **JasonL(Peiwen Lan)**, a post-OIer with 🥈 in NOI. Now I'm a freshman 
 
 📫 [My Email] [jasonlanstudio@gmail.com](mailto:jasonlanstudio@gmail.com)
 
+[![JasonLannel's GitHub stats](https://github-readme-stats.vercel.app/api?username=JasonLannel)](https://github.com/anuraghazra/github-readme-stats)
