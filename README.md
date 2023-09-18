@@ -1,6 +1,6 @@
 ### Hi there!
 
-Here's **JasonL(Peiwen Lan)**, a post-OIer with 🥈 in NOI. Now I'm a freshman learning in IIIS.
+Here's **JasonL(Peiwen Lan)**, a post-OIer with 🥈 in NOI. Now I'm a sophomore learning in IIIS.
 
 > You may find me with my user name *JasonLannel* somewhere, like here.
 
