@@ -6,7 +6,7 @@ Here's **JasonL(Peiwen Lan)**, a student at [IIIS](https://iiis.tsinghua.edu.cn/
 
 > You may find me with my user name *JasonLannel* somewhere, like here.
 
-Now I am taking my B.E. as a sophomore learning in IIIS. I am keen on computer graphics, especially physically-based and real-time rendering. Some topics in computer system e.g. distributed system and cloud computing also interests me. Feel free to contact me through email.
+Now I am taking my B.E. as a sophomore learning in IIIS. I am keen on computer graphics, especially physically-based and real-time rendering. Some topics in computer system e.g. distributed system and cloud computing also interests me.
 
 #### To learn more...
 💬 [My Blog] [https://jasonlannel.github.io](https://jasonlannel.github.io)   (It is available again! Much delight)
