@@ -7,7 +7,5 @@ Here's **JasonL(Peiwen Lan)**, a student at [IIIS](https://iiis.tsinghua.edu.cn/
 Now I am taking my B.E. as a junior learning in IIIS. I am keen on computer graphics, especially physically-based and real-time rendering. Some topics in computer system e.g. distributed system and cloud computing also interests me.
 
 #### To learn more...
-💬 [My Blog] [https://jasonlannel.github.io](https://jasonlannel.github.io) 
-
-📫 [My Email] [jasonlanstudio@gmail.com](mailto:jasonlanstudio@gmail.com)
+📫 [My Email] [lanpw22@mails.tsinghua.edu.cn](mailto:lanpw22@mails.tsinghua.edu.cn)
 
