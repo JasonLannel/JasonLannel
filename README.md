@@ -7,5 +7,5 @@ Here's **JasonL(Peiwen Lan)**, a student in Yao Class, [IIIS](https://iiis.tsing
 Now I am taking my B.E. as a junior studying in IIIS. I am now do research in rendering framework. I am also attracted by optimizing existing algorithms and (large) systems with new data structures, new arch/pipeline designs and AI-based tools. Some specific topics such as distributed system and cloud computing also interest me.
 
 #### To learn more...
-📫 [My Email] [lanpw22@mails.tsinghua.edu.cn](mailto:lanpw22@mails.tsinghua.edu.cn)
+📫 [My Email] lanpw22(AT)mails.tsinghua.edu.cn
 
