@@ -1,11 +1,8 @@
 ### Hi there!
 
-Here's **JasonL(Peiwen Lan)**, a student in Yao Class, [IIIS](https://iiis.tsinghua.edu.cn/), Tsinghua University. I was once an OIer and got a silver medal in NOI, and now I am enjoying my new role as a student trainer (though not as skilled as before).
+Here's **JasonL(Peiwen Lan)** from Yao Class, [IIIS](https://iiis.tsinghua.edu.cn/), Tsinghua University. I was once an OIer and got a silver medal in National Olympiad in Informatics (NOI). Now I am taking my B.E. as a junior and looking for a Ph.D. position. 
 
-> You may find me with my user name *JasonLannel* somewhere else, which is also my common username.
+Now my interests lie on data processing specifically in DBMSs and distributed systems; High-quality data is all you need. I have been a rendering enthusiast and enjoy good visualization. 
 
-Now I am taking my B.E. as a junior studying in IIIS. I am now do research in rendering framework. I am also attracted by optimizing existing algorithms and (large) systems with new data structures, new arch/pipeline designs and AI-based tools. Some specific topics such as distributed system and cloud computing also interest me.
-
-#### To learn more...
 📫 [My Email] lanpw22(AT)mails.tsinghua.edu.cn
 
